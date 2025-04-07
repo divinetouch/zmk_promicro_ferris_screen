@@ -20,6 +20,7 @@
 ---
 include:
   - board: sparkfun_pro_micro_rp2040
-    shield: cradio_left nice_view
+    shield: cradio_left 
   - board: sparkfun_pro_micro_rp2040
-    shield: cradio_right nice_view
+    shield: cradio_right
+ 
