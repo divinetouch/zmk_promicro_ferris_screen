@@ -217,7 +217,7 @@
 
         coding_layer {
             bindings = <
-&kp ESCAPE  &kp NUMBER_1  &kp N2        &kp NUMBER_3       &kp TAB      &kp EXCL             &kp EQUAL                       &kp LEFT_PARENTHESIS        &kp RIGHT_PARENTHESIS            &kp N0
+&kp ESCAPE  &kp NUMBER_1  &kp N2        &kp NUMBER_3       &kp TAB      &kp EXCL             &kp EQUAL                       &kp LEFT_PARENTHESIS        &kp RIGHT_PARENTHESIS            &kp BACKSPACE
 &kp CAPS    &kp NUMBER_4  &kp NUMBER_5  &mt LEFT_SHIFT N6  &kp COMMA    &mt RIGHT_ALT MINUS  &mt RIGHT_CONTROL GREATER_THAN  &mt RIGHT_SHIFT LEFT_BRACE  &right_homerow RGUI RIGHT_BRACE  &mo 3
 &kp LSHFT   &kp N7        &kp N8        &kp N9             &kp N0       &kp UNDER            &kp LESS_THAN                   &kp LEFT_BRACKET            &kp RIGHT_BRACKET                &mo 4
                                         &to 0              &trans       &trans               &trans
